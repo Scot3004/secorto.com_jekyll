@@ -2,5 +2,26 @@
 title: Contacto
 permalink: /contacto/
 ---
-Bienvenido a esta solucion temporal, de hecho podrian sugerirme un buen formulario por aca :D
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvoo2vdccWkmSqAVujhnL8_fXRCfIfMbZsGA8JQ8iS1WkZ0w/viewform?embedded=true" width="640" height="398" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<div>
+  <form name="contact" action="thank-you" netlify-honeypot="bot-field" data-netlify-recaptcha netlify>
+    <p class="hidden">
+      <label>No uses este campo de texto: <input name="bot-field"></label>
+    </p>
+    <p>
+      <label for="email">Correo: </label>
+      <input class="form-control" type="email" name="email">
+    </p>
+    <p>
+      <label for="message">Mensaje:</label>
+      <textarea class="form-control" name="message"></textarea>
+    </p>
+    <p>
+      <div class="g-recaptcha" data-sitekey="6LetIXYUAAAAAL3uFhWd1vRXRBt61_9wRsZTsKEQ" data-theme="dark"></div>
+    </p>
+    <p>
+      <button class="btn btn-primary" type=”submit”>Enviar</button>
+    </p>
+  </form>
+</div>
