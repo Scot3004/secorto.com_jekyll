@@ -1,6 +1,6 @@
 # Pull request
 
-Resuelve # (numero de issue asociado)
+Closes #(numero de issue asociado)
 
 ## Observaciones
 
