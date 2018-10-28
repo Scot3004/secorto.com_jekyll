@@ -1,16 +1,13 @@
 
 .intro {
+  background: $grayscale-dark url('../img/intro-bg.jpg') no-repeat scroll top left;
+  background-size: cover;
+  color: $grayscale-light;
   display: table;
-  width: 100%;
   height: auto;
   padding: 100px 0;
   text-align: center;
-  color: $grayscale-light;
-  background: $grayscale-dark url('../img/intro-bg.jpg') no-repeat scroll top left;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+  width: 100%;
 }
 
 .intro-body {
@@ -59,8 +56,8 @@
 
 @media(min-width:$screen-xs-max) {
   .content-section {
-    padding-top: 100px;
     min-height: 100%;
+    padding-top: 100px;
     position: relative;
     top: 50%;
   }
