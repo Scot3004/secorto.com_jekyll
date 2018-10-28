@@ -2,6 +2,8 @@
 title: Autenticación de 2 pasos
 category: dev
 excerpt: A veces nos hacen sufrir las contraseñas por eso recurrimos a algo que tenemos
+toc: true
+toc_stiky: false
 ---
 
 ### Para que se usan
