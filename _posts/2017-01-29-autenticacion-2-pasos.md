@@ -3,17 +3,21 @@ title: Autenticación de 2 pasos
 category: dev
 excerpt: A veces nos hacen sufrir las contraseñas por eso recurrimos a algo que tenemos
 toc: true
-toc_stiky: false
+toc_sticky: false
 ---
 
-### Para que se usan
+# Para que se usa
 
 La verificación de 2 pasos nos sirve para verificar que estamos autorizados a usar un recurso web
 se basa en el principio de algo que tenemos representado en unos códigos generados por la aplicación o un token generado al vuelo.
 
-### Cuando pueden hacernos pasar malos ratos
+# Cuando pueden hacernos pasar malos ratos
 
-Al momento que perdemos la aplicación autenticador o el generador de token,
-por ello debemos asignar metodos alternativos para generación de estos códigos,
-o arriesgarnos a si esta almacenado en el movil que de un momento a otro se desinstale la aplicación
-o peor que se pierda el dispositivo que genera los token
+- Si se borra la aplicación de autenticación
+- Si se pierde el dispositivo movil asociado
+- Si se pierde la master key a la aplicación de autenticación
+
+## Contra-medidas
+
+- Asignar métodos alternativos para generación de estos tokens.
+- Almacenar una lista de tokens validos generado por el proveedor MFA.

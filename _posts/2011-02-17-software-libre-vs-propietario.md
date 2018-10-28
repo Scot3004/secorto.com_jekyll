@@ -1,15 +1,13 @@
 ---
-title: Software, Libre o Cerrado, libertad o restriccion
+title: Software, Libre o Cerrado, libertad o restricción
 tags:
 blogger_id: tag:blogger.com,1999:blog-3290987933179858425.post-6280089637130327883
 blogger_orig_url: http://scot3004.blogspot.com/2011/02/software-libre-o-cerrado-libertad-o.html
 ---
 
-## Un poco mas de chachara acerca del software
+Si bien es sabido que en los sistemas cerrados no hay muchas opciones de modificación, el software es como viene, y modificarlos podría violar los términos que los desarrolladores de estos establecen.
 
-Si bien es sabido que en los sistemas cerrados no hay muchas opciones de modificacion el software es como viene, y modificarlos podría violar los términos que los desarrolladores de estos establecen-
-
-El software cerrado es buena opción para el que esta acostumbrado y tiene el dinero para pagar la licencia original
+El software cerrado es buena opción para el que esta acostumbrado y tiene el dinero para pagar la licencia original.
 
 Ademas no es justo que nos pongamos a estar inventando instalar cracks de dudosa procedencia poniendo en riesgo tanto nuestro equipo como nuestra información.
 
@@ -22,11 +20,12 @@ Ademas, si tenemos una versión de básica del mismo no hay por que hacer maroma
 Debemos evitar hacer parte de la cadena de ilegalidad, pues luego podemos llegar a un estado de conformismo donde en lo único que pensamos que lo que podemos hacer solo lo podemos hacer con esa herramienta especifica.
 
 Debemos ademas evitar enseñar  u aprende a utilizar una única herramienta, podemos enseñar alternativas asi hacemos que los desarrolladores se pongan las pilas viendo que la competencia existe y evitamos que estos se estanquen
-Si no queremos seguir estas licencias dejemos a este software a un lado respetemos a los desarrolladores, respetemonos a nosotros mismos, no hagamos algo ilegal.
+Si no queremos seguir estas licencias dejemos a este software a un lado respetemos a los desarrolladores, a nosotros mismos, no hagamos algo ilegal.
 
 Si queremos podemos unirnos también a la filosofía del software libre
 porque cuando somos libres podemos:
-- usar el software
+
+- Usar el software
 - Modificar el software
 - Compartir el software
 - Modificar y compartir el software modificado
@@ -38,6 +37,7 @@ Existe una gran cantidad de software libre gratuito ofrecido por la comunidad qu
 El software libre no es solamente para programadores diseñadores, el software libre es para todos.
 
 Software libre hay para todos los gustos
-desde los que les gusta lo fácil a los que les gusta lo difícil
-de los que le gusta saber que pasa hasta a los que no les importa
-de los que quieren algo muy lindo a los que quieren algo sobre todo funcional
+
+- desde los que les gusta lo fácil a los que les gusta lo difícil
+- de los que le gusta saber que pasa hasta a los que no les importa
+- de los que quieren algo muy lindo a los que quieren algo sobre todo funcional
