@@ -5,20 +5,20 @@
   position: relative;
 
   &::before {
-    top: 0;
-    bottom: 0;
-    position: absolute;
-    content: '';
-    width: 2px;
     background-color: $grayscale-max-light;
+    bottom: 0;
+    content: '';
     left: 40px;
     margin-left: -1.5px;
+    position: absolute;
+    top: 0;
+    width: 2px;
   }
 
   > li {
     margin-bottom: 50px;
-    position: relative;
     min-height: 50px;
+    position: relative;
 
     &::before,
     &::after {
@@ -32,8 +32,8 @@
 
     &.timeline-inverted > .timeline-panel {
       float: right;
-      text-align: left;
       padding: 0 20px 0 100px;
+      text-align: left;
 
       &::before {
         border-left-width: 0;
@@ -57,8 +57,8 @@
 
   .timeline-heading {
     h4 {
-      margin-top: 0;
       color: inherit;
+      margin-top: 0;
 
       &.subheading {
         text-transform: none;
@@ -75,11 +75,11 @@
 }
 
 .timeline-panel {
-  width: 100%;
   float: right;
   padding: 0 20px 0 100px;
   position: relative;
   text-align: left;
+  width: 100%;
 
   &::before {
     border-left-width: 0;
@@ -97,22 +97,22 @@
 }
 
 .timeline-image {
+  background-color: $grayscale-primary;
+  border: 7px solid $grayscale-max-light;
+  border-radius: 100%;
+  color: $grayscale-max-light;
+  height: 80px;
   left: 0;
   margin-left: 0;
-  width: 80px;
-  height: 80px;
   position: absolute;
-  z-index: 100;
-  background-color: $grayscale-primary;
-  color: $grayscale-max-light;
-  border-radius: 100%;
-  border: 7px solid $grayscale-max-light;
   text-align: center;
+  width: 80px;
+  z-index: 100;
 
   h4 {
     font-size: 10px;
-    margin-top: 12px;
     line-height: 14px;
+    margin-top: 12px;
   }
 }
 
@@ -127,29 +127,29 @@
       min-height: 100px;
 
       .timeline-panel {
-        width: 41%;
         float: left;
         padding: 0 20px 20px 30px;
         text-align: right;
+        width: 41%;
       }
 
       .timeline-image {
-        width: 100px;
         height: 100px;
         left: 50%;
         margin-left: -50px;
+        width: 100px;
 
         h4 {
           font-size: 13px;
-          margin-top: 16px;
           line-height: 18px;
+          margin-top: 16px;
         }
       }
 
       &.timeline-inverted > .timeline-panel {
         float: right;
-        text-align: left;
         padding: 0 30px 20px 20px;
+        text-align: left;
       }
     }
 	}
@@ -165,14 +165,14 @@
       }
 
       .timeline-image {
-        width: 150px;
         height: 150px;
         margin-left: -75px;
+        width: 150px;
 
         h4 {
           font-size: 18px;
-          margin-top: 30px;
           line-height: 26px;
+          margin-top: 30px;
         }
       }
 
@@ -201,9 +201,9 @@
   }
 
   .timeline-image {
-    width: 170px;
     height: 170px;
     margin-left: -85px;
+    width: 170px;
 
     h4 {
       margin-top: 40px;

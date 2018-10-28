@@ -1,27 +1,24 @@
 .error-page {
-  width: 100%;
   background: $grayscale-dark url('../img/lost.jpg') no-repeat scroll top left;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
-  -o-background-size: cover;
+  min-height: 100%;
   position: relative;
   top: 50%;
   transform: translateY(-50%);
-  min-height: 100%;
+  width: 100%;
 }
 
 .error-page-number {
+  color: $error-number-color-fill;
   font-family: Sans-Serif;
   font-size: 114px;
-  opacity: 1;
-  -webkit-text-stroke: 5px $error-number-color-stroke;
   font-weight: 600;
-  color: $error-number-color-fill;
+  opacity: 1;
   text-shadow: -5px -5px 0 $error-number-color-stroke,
-    5px -5px 0 $error-number-color-stroke,
-    -5px 5px 0 $error-number-color-stroke,
-    5px 5px 0 $error-number-color-stroke;
+  5px -5px 0 $error-number-color-stroke,
+  -5px 5px 0 $error-number-color-stroke,
+  5px 5px 0 $error-number-color-stroke;
+  -webkit-text-stroke: 5px $error-number-color-stroke;
 }
 
 @media(min-width:$screen-xs-max) {
