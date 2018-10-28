@@ -1,0 +1,66 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (master by default)
+
+media_folder: "img/uploads" # Folder where user uploaded files should go
+
+publish_mode: editorial_workflow
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "_posts" # The path to the folder where the documents are stored
+    sort: "date" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Plantilla", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Titulo", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Contenido", name: "body", widget: "markdown"}
+      - {label: "Categoria", name: "category", widget: "string", required: false}
+      - {label: "Etiquetas", name: "tags", widget: "list", required: false}
+      - {label: "Resumen", name: "excerpt", widget: "string", required: false}
+      - {label: "Tabla de contenidos", name: "toc", widget: "boolean", default: false}
+      - {label: "Tabla de contenidos Fija", name: "toc_sticky", widget: "boolean", default: false}
+      - label: "Imagen destacada"
+        name: "thumbnail"
+        widget: "image"
+        options:
+          media_library:
+            config:
+              publicKey: "post_featured"
+              multiple: true
+    meta: # Meta data fields. Just like fields, but without any preview element
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+
+  - name: "portafolio" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Portafolio" # Used in the UI, ie.: "New Post"
+    folder: "_portafolio" # The path to the folder where the documents are stored
+    sort: "title:asc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Plantilla", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Titulo", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Contenido", name: "body", widget: "markdown"}
+      - label: "Cabecera"
+        name: "header"
+        widget: "object"
+        fields:
+          - {label: "Imagen", name: "image", widget: "image", required: false}
+          - {label: "Miniatura", name: "teaser", widget: "image", required: false}
+      - label: "Sidebar"
+        name: "sidebar"
+        widget: "list"
+        fields:
+          - {label: "Titulo", name: "title", widget: "string"}
+          - {label: "Subtitulo", name: "text", widget: "string", required: false}
+          - {label: "Imagen", name: "image", widget: "image", required: false}
+          - {label: "Imagen [alt]", name: "image_alt", widget: "string", required: false}
+      - label: "Imagenes"
+        name: "gallery"
+        widget: "list"
+        fields:
+          - {label: "Imagen [url]", name: "url", widget: "image", required: false}
+          - {label: "Imagen [path]", name: "image_path", widget: "image", required: false}
+          - {label: "Imagen [alt]", name: "alt", widget: "string", required: false}
