@@ -1,0 +1,7 @@
+[build]
+  publish = "/_site"
+  command = "jekyll build"
+[build.environment]
+  YARN_VERSION = "1.9.4"
+  NODE_VERSION = "10"
+  JEKYLL_ENV = "CONTEXT"
