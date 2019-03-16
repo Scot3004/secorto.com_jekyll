@@ -13,11 +13,11 @@ se basa en el principio de algo que tenemos representado en unos códigos genera
 
 # Cuando pueden hacernos pasar malos ratos
 
-- Si se borra la aplicación de autenticación
-- Si se pierde el dispositivo movil asociado
-- Si se pierde la master key a la aplicación de autenticación
+-   Si se borra la aplicación de autenticación
+-   Si se pierde el dispositivo movil asociado
+-   Si se pierde la master key a la aplicación de autenticación
 
 ## Contra-medidas
 
-- Asignar métodos alternativos para generación de estos tokens.
-- Almacenar una lista de tokens validos generado por el proveedor MFA.
+-   Asignar métodos alternativos para generación de estos tokens.
+-   Almacenar una lista de tokens validos generado por el proveedor MFA.

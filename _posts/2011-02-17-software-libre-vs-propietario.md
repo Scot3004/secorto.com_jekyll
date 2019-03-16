@@ -25,10 +25,10 @@ Si no queremos seguir estas licencias dejemos a este software a un lado respetem
 Si queremos podemos unirnos también a la filosofía del software libre
 porque cuando somos libres podemos:
 
-- Usar el software
-- Modificar el software
-- Compartir el software
-- Modificar y compartir el software modificado
+-   Usar el software
+-   Modificar el software
+-   Compartir el software
+-   Modificar y compartir el software modificado
 
 Nota: el hecho que sea software libre no significa que sea gratuito, lo que lo hace libre es la capacidad de compartirlo si queremos o no.
 
@@ -38,6 +38,6 @@ El software libre no es solamente para programadores diseñadores, el software l
 
 Software libre hay para todos los gustos
 
-- desde los que les gusta lo fácil a los que les gusta lo difícil
-- de los que le gusta saber que pasa hasta a los que no les importa
-- de los que quieren algo muy lindo a los que quieren algo sobre todo funcional
+-   desde los que les gusta lo fácil a los que les gusta lo difícil
+-   de los que le gusta saber que pasa hasta a los que no les importa
+-   de los que quieren algo muy lindo a los que quieren algo sobre todo funcional

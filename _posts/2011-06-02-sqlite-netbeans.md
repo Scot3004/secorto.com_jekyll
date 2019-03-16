@@ -20,18 +20,20 @@ bueno resulta que SQLite te ahorra esa parte,
 ademas en caso de querer un motor mas potente,
 no te tocara reescribir si creaste un conector abierto a las posibilidades,
 como yo XD, en fin.
+
 <!-- more -->
+
 Respecto a los pasos con url las instrucciones de instalación están en la pagina de cada uno
 
-1. Instalar Netbeans, en caso que no lo tengas instalado [http://www.netbeans.org/"](http://www.netbeans.org/)
-2. Crear tu proyecto en Java Netbeans
-3. Descargar sqlite para crear la base de datos [http://www.sqlite.org/](http://www.sqlite.org/)
-4. Buscar un editor grafico [http://sqliteman.com/](http://sqliteman.com) si no sabes de sql
-5. Crear la base de datos
-6. Descargar Sqlite JDBC [https://bitbucket.org/xerial/sqlite-jdbc](https://bitbucket.org/xerial/sqlite-jdbc)
-7. Guardar  el driver en una carpeta lib o algo asi en la carpeta de tu proyecto
-8. Añadir sqlite JDBC que descargaste en netbeans abriendo el proyecto, luego haces clic derecho en donde dice librerías añadir jar/carpeta y selecciona sqliteJDBC
-9. Para finalizar crea las clases de conexión a la base de datos y los respectivos DAO
+1.  Instalar Netbeans, en caso que no lo tengas instalado [http://www.netbeans.org/"](http://www.netbeans.org/)
+2.  Crear tu proyecto en Java Netbeans
+3.  Descargar sqlite para crear la base de datos <http://www.sqlite.org/>
+4.  Buscar un editor grafico [http://sqliteman.com/](http://sqliteman.com) si no sabes de sql
+5.  Crear la base de datos
+6.  Descargar Sqlite JDBC <https://bitbucket.org/xerial/sqlite-jdbc>
+7.  Guardar  el driver en una carpeta lib o algo asi en la carpeta de tu proyecto
+8.  Añadir sqlite JDBC que descargaste en netbeans abriendo el proyecto, luego haces clic derecho en donde dice librerías añadir jar/carpeta y selecciona sqliteJDBC
+9.  Para finalizar crea las clases de conexión a la base de datos y los respectivos DAO
 10. ya que tienes el driver sqlite instalado y configurado, emocionate viendo que opciones te da tener una base de datos en tu proyecto
 
 por ultimo una vista previa de mi trabajo
@@ -39,4 +41,4 @@ hecho en GNU/Linux
 ![Creación de tabla](//1.bp.blogspot.com/-Uh4mEjsnmZc/TecrJnVbChI/AAAAAAAAAKQ/jh5bqLy2zkM/s1600/instant%25C3%25A1nea1.png)
 ![Conexión con la base de datos](//3.bp.blogspot.com/-ZPMDat83nvQ/TecrLV8YRxI/AAAAAAAAAKU/LY9L4uVOOlQ/s1600/instant%25C3%25A1nea2.png)
 ![NetBeans creando](//4.bp.blogspot.com/-qxXGsXJujfg/TecrMatevpI/AAAAAAAAAKY/1XTnmPcWNK8/s1600/instant%25C3%25A1nea3.png)
-![Consulta de registros]( //3.bp.blogspot.com/-sSOke2IJHco/TecrOLZnoHI/AAAAAAAAAKg/Udnsf2A9_o0/s1600/instant%25C3%25A1nea5.png)
+![Consulta de registros](//3.bp.blogspot.com/-sSOke2IJHco/TecrOLZnoHI/AAAAAAAAAKg/Udnsf2A9_o0/s1600/instant%25C3%25A1nea5.png)

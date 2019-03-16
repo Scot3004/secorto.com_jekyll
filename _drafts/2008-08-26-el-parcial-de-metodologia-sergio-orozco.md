@@ -24,46 +24,31 @@ la primera sala de informática abierta en la universidad estaba ubicada en el c
 
 junto a donde actualmente se encuentra ubicado el centro de informática de la universidad
 
- 
-
 Como la universidad somos todos los que estudiamos o los que trabajan en ella entonces debo decir que uno de los avances informáticos mas importantes implementado es el computador junto con el Internet ya que a través de ellos los estudiantes pueden comunicarse entre ellos.
 
 Un avance importante en materia de computadores son los sistemas de almacenamiento masivo ya que estos nos permiten tener la información guardada para así lograr compartirla.
-
- 
 
 Durante los últimos años la universidad ha cambiado los equipos lo cual nos demuestra que en ella se esta trabajando por que los estudiantes tengan un entorno agradable en sus estudios.
 
 En las salas de informática se ven estudiantes que violan el reglamento pero aun así existen fuertes penalizaciones al que descubra fragante.
 
- 
-
 Otro avance mas que todo tecnológico es el hecho que los celulares existan pues es una útil herramienta para los estudiantes ya que estos pueden hablar con sus compañeros.
-
- 
 
 En la biblioteca el uso mas útil es con la base de datos siabuc ya que gracias a esta los procesos de préstamo de libros antes de la existencia de siabuc se usaba otro soft que tenia mas limites, aun así ayudaba en el control de los libros por lo tanto reducción en los tiempos de busqueda de libros para el préstamo
 
- 
-
 El uso mas significativo es en el proceso de matricula ya que la plataforma virtual permite que los estudiantes no tengan que hacer aquella fila que antes hacían para poder matricularse sino que se agilizo el proceso de matricula, Además de esto la plataforma actual permite ver las notas el horario y otras cosas mas lo cual le reduce parte del trabajo al docente al no tener que recordar y decir las las notas al estudiante.
 
- 
-
 El Internet ha permitido muchas cosas el caso mas especial radica en la pagina web de la universidad.[1]
-
- 
 
 En la sala de Ingeniería De Sistemas se ve mucho algo que muy pocos aprecian y es el hecho que se usa un sistema operativo distinto e igual de funcional que se llama LINUX una de las distribuciones mas comunes de mencionar es el Ubuntu la cual presenta una interfaz agradable que si puede dar competencia a Windows, un sistema operativo agradable de controlar para las personas que lo llegan a conocer aun así en cuestiones de instalación es ligeramente complicado para el soft no suministrado, eso no quiere decir que no hayan otros que si sean fáciles de instalar. [2]
 
 ## Dispositivos de  Almacenamiento Usado Acualmente
 
- 
-
 Cinta Magnetica:
 : La cinta magnética fue el primer tipo de memoria secundaria. Es un tipo de almacenamiento no volátil que consiste de una cubierta magnética sobre una tira delgada de plástico. Las cintas son dispositivos de acceso secuencial, lo cual implica que para leer el registro n se deben leer necesariamente los n - 1 registros anteriores
 
 ### Disquetes
+
 Tamaños: 5 ¼pul y 3½pul, 8 pul
 
 #### Capacidad
@@ -90,7 +75,7 @@ En discos ópticos la lectura se hace de acuerdo a la reflexión de un rayo lás
 : Duración de 90–100 minutos de audio y 800-875 MB de datos (no se encuentran en el mercado hoy en día).
 
 80 mm
-: Fueron inicialmente diseñados para CD singles. Estos pueden almacenar unos 21 minutos de música o 210 MB de datos. También son conocidos como Mini-CD o Pocket CD. [4] [5]
+: Fueron inicialmente diseñados para CD singles. Estos pueden almacenar unos 21 minutos de música o 210 MB de datos. También son conocidos como Mini-CD o Pocket CD. [4][5]
 
 DVD 
 : (Digital Versatile Disc" o "Disco Versátil Digital" - Disco de Video Digital) “Los DVD deben guardar los datos utilizando un sistema de archivos denominado UDF (Universal Disk Format), el cual es una extensión del estándar ISO 9660, usado para CD de datos.
@@ -105,8 +90,7 @@ Las memorias flash son de carácter no volátil, esto es, la información que al
 
 Los principales usos de este tipo de memorias son pequeños dispositivos basados en el uso de baterías como teléfonos móviles, PDA, pequeños electrodomésticos, cámaras de fotos digitales, reproductores portátiles de audio, memorias USB, etc.[8]
 
-
-## Generaciones Pasadas 
+## Generaciones Pasadas
 
 ### I Generación (1945-1955)
 
@@ -138,11 +122,9 @@ COMMODORE 64 Y 128,
 
 SPECTRUM.
 
-  
-
 ### Lanzmientos Conocidos Actualmente
 
-1985: Microsoft ya vendía 140 millones de dólares al año. 1986: Comienzan a cotizar en la bolsa las acciones de Microsoft. 1987: Junto a IBM, MICROSOFT lanza al mercado el sistema operativo OS\2. Adquiere la compañía que desarrolló el programa POWER POINT y lanza el programa EXCEL para Windows. 
+1985: Microsoft ya vendía 140 millones de dólares al año. 1986: Comienzan a cotizar en la bolsa las acciones de Microsoft. 1987: Junto a IBM, MICROSOFT lanza al mercado el sistema operativo OS\\2. Adquiere la compañía que desarrolló el programa POWER POINT y lanza el programa EXCEL para Windows. 
 1989: Forma su división multimedia. Anuncia la aparición de OFFICE el primer programa para negocios que integra varios programas muy populares. 1990: Presenta el conocido WINDOWS 3.0. Vende más de mil millones anuales. 1992: Anuncia la versión 3.1 de WINDOWS y presenta la base de datos ACCESS para WINDOWS. 1993: Lanza el Sistema operativo WINDOWS NT para empresas y la Enciclopedia ENCARTA. Produce juegos Multimedia y programas para niños. 1995: Presenta el Windows 95. 1996: Compra una empresa para utilizar sus programas para Internet. También se une con la cadena de televisión NBC, para crear MSNBC. 1997: Lanza OFFICE 97, invierte 150 millones de dólares en APPLE. Adquiere WebTV. El departamento de justicia de USA. Inicia un juicio a Microsoft acusándolo de acciones monopólicas. Por su programa Windows 95. 1998 lanza al mercado el mejorado Windows 98. 1999 Lanza al mercado la nueva y actualizada Enciclopedia Encarta 99 sucesora de la Encarta 98.[13]
 
 “Linux hace su aparición a principios de la década de los noventa, era el año 1991 y por aquel entonces un estudiante de informática de la Universidad de Helsinki, llamado Linus Torvalds empezó, -como una afición y sin poder imaginar a lo que llegaría este proyecto, a programar las primeras líneas de código de este sistema operativo al que llamaría más tarde Linux.[14]
@@ -166,7 +148,6 @@ Linux distribuye su núcleo y nacen: Ubuntu, Gnoppix, Suse, Knoppix, entre otras
 ## Conclusion
 
 A medida que el mudo informatico avanza las capacidades de almacenamiento aumentan llevando a que cada dia tengamos mas espacio para construir nuevos software y mas potente  el mundo de intermet va en auge con los servicios que están ofreciendo las ditintas empresas, para poder llegar a lo que tenemos hoy se tuvo que experimentar con distintos equipos para realizar cálculos matematicos.
-
 
 [1] Entrevista con funcionarios del centro de informatica
 

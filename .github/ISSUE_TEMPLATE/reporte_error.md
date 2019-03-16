@@ -16,6 +16,6 @@ es preferible el uso de capturas de pantalla ademas de una descripción paso a p
 
 ## Pasos para reproducir el error
 
-1. En que url aparece el error.
-2. Definir paso a paso las acciones para reproducir el error.
-3. En este ejemplo se utiliza una lista numerada.
+1.  En que url aparece el error.
+2.  Definir paso a paso las acciones para reproducir el error.
+3.  En este ejemplo se utiliza una lista numerada.
