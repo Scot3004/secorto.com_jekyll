@@ -19,8 +19,8 @@ Desarrollar un sitio web informativo que demuestre los conocimientos y habilidad
 
 ### Objetivos específicos
 
-* Página de presentación como desarrollador
-* Desarrollar blog de las cosas aprendidas
+-   Página de presentación como desarrollador
+-   Desarrollar blog de las cosas aprendidas
 
 ## Scripts Incluidos
 
@@ -56,29 +56,29 @@ Este blog ha sido posible gracias a una serie de herramientas y utilitarios que 
 
 ### Tecnologias
 
-* [Bundler](http://bundler.io/)
-* [Jekyll](https://jekyllrb.com/)
-* [NPM](https://www.npmjs.com/)
-* [GIT](https://git-scm.com)
-* [Sass](http://sass-lang.com/)
+-   [Bundler](http://bundler.io/)
+-   [Jekyll](https://jekyllrb.com/)
+-   [NPM](https://www.npmjs.com/)
+-   [GIT](https://git-scm.com)
+-   [Sass](http://sass-lang.com/)
 
 ### Servidores
 
-* [CodeClimate](https://codeclimate.com/)
-* [Github](https://github.com)
-* [Netlify](https://www.netlify.com/)
-* [Travis](https://travis-ci.org/)
+-   [CodeClimate](https://codeclimate.com/)
+-   [Github](https://github.com)
+-   [Netlify](https://www.netlify.com/)
+-   [Travis](https://travis-ci.org/)
 
 ### Linters
 
-* [ESLint](http://eslint.org/)
-* [HTMLProofer](https://github.com/gjtorikian/html-proofer)
-* [Scss-lint](https://github.com/brigade/scss-lint)
+-   [ESLint](http://eslint.org/)
+-   [HTMLProofer](https://github.com/gjtorikian/html-proofer)
+-   [Scss-lint](https://github.com/brigade/scss-lint)
 
 ### Similares
 
-* [Made Mistakes](https://github.com/mmistakes)
-* [Start Bootstrap](http://startbootstrap.com/)
+-   [Made Mistakes](https://github.com/mmistakes)
+-   [Start Bootstrap](http://startbootstrap.com/)
 
 ## Copyright and Licenses
 
