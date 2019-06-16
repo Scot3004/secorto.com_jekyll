@@ -1,5 +1,4 @@
 ---
-layout: post
 title: PyCon
 header:
   image: /img/uploads/pycon-pybaq-2019.jpg
