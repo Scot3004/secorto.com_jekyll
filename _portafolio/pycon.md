@@ -4,6 +4,10 @@ header:
   image: /img/uploads/pycon-pybaq-2019.jpg
   teaser: /img/uploads/pycon-pybaq-2019.jpg
 sidebar:
+  - title: '2020'
+    text: Volunteer
+    image_alt: Pycon 2020
+    image: /img/uploads/pycon2020.png
   - image: /img/uploads/logo.svg
     image_alt: Pycon 2019
     text: Volunteer
