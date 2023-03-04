@@ -1,9 +1,7 @@
 # Scot3004
 
-[![Build Status](https://travis-ci.org/Scot3004/secorto.com.svg)](https://travis-ci.org/Scot3004/secorto.com)
-[![devDependency Status](https://david-dm.org/Scot3004/secorto.com/dev-status.svg)](https://david-dm.org/Scot3004/secorto.com?type=dev)
-[![Code Climate](https://codeclimate.com/github/Scot3004/secorto.com/badges/gpa.svg)](https://codeclimate.com/github/Scot3004/secorto.com)
-[![Issue Count](https://codeclimate.com/github/Scot3004/secorto.com/badges/issue_count.svg)](https://codeclimate.com/github/Scot3004/secorto.com)
+> **Warning**
+> Ahora mis sitio web se desarrolla en este repositorio: https://github.com/Scot3004/secorto_web/
 
 Página personal de presentación de Sergio C. Orozco Torres
 
